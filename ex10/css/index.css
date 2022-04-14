@@ -1,0 +1,56 @@
+body {
+    display: flex;
+    background-image: url(https://image.ibb.co/cO9Lxq/login-bg.jpg);
+}
+.logo {
+    padding-left: 150px;
+    padding-top: 100px;
+}
+#right {
+    float: right;
+}
+#left {
+    float: left;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+#showcase-content {
+    padding-top: 300px;
+}
+.showcase-text {
+    padding-left: 350px;
+    color: white;
+}
+.secondary-btn {
+    padding-left: 450px;
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+form {
+    color: white;
+    padding-top: 100px;
+    display:inline-table;
+    padding-left: 180px;
+    padding-bottom: 100px;
+}
+input {
+    background-color: black;
+}
+.primary-btn {
+    background-color: blue;
+    color: white;
+    padding-left: 125px;
+    text-align: justify;
+}
+#links {
+    padding-left: 100px;
+    color: blue;
+}
+#main-footer {
+    color: white;
+    padding-left: 100px;
+    padding-top: 100px;
+}
